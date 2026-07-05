@@ -4,6 +4,7 @@ __pycache__/
 .pytest_cache/
 data/processed/*.csv
 models/*.joblib
+!models/churn_pipeline.joblib
 .env
 .DS_Store
 .ipynb_checkpoints/
